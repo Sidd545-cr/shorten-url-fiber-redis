@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Sidd545-cr/shorten-url-fiber-redis/database"
-	"github.com/Sidd545-cr/shorten-url-fiber-redis/helpers"
+	"github.com/Sidd545-cr/shorten-url-fiber-redis/api/database"
+	"github.com/Sidd545-cr/shorten-url-fiber-redis/api/helpers"
 	"github.com/asaskevich/govalidator"
 	"github.com/go-redis/redis/v8"
 	"github.com/gofiber/fiber/v2"

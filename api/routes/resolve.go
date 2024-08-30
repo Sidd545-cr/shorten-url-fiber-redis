@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Sidd545-cr/shorten-url-fiber-redis/database"
+	"github.com/Sidd545-cr/shorten-url-fiber-redis/api/database"
 	"github.com/go-redis/redis/v8"
 	"github.com/gofiber/fiber/v2"
 )
