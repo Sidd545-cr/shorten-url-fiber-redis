@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Sidd545-cr/shorten-url-fiber-redis/api/routes"
+	"github.com/Sidd545-cr/shorten-url-fiber-redis/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/joho/godotenv"
