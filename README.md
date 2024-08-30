@@ -4,3 +4,4 @@ uses redis and go as backend
 git clone this repo
 then run docker-compose up -d
 use postman or something similar to interact
+https://roadmap.sh/projects/url-shortening-service
